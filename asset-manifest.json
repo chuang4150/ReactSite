@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5203011d.chunk.css",
-    "main.js": "/static/js/main.c687bac3.chunk.js",
-    "main.js.map": "/static/js/main.c687bac3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.52bf020e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.52bf020e.js.map",
-    "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
-    "static/js/2.8eabbe43.chunk.js": "/static/js/2.8eabbe43.chunk.js",
-    "static/js/2.8eabbe43.chunk.js.map": "/static/js/2.8eabbe43.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2fe8a49a023c5285cbfb23632835c035.js": "/precache-manifest.2fe8a49a023c5285cbfb23632835c035.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
-    "static/css/main.5203011d.chunk.css.map": "/static/css/main.5203011d.chunk.css.map",
-    "static/js/2.8eabbe43.chunk.js.LICENSE.txt": "/static/js/2.8eabbe43.chunk.js.LICENSE.txt",
-    "static/media/image1.jpeg": "/static/media/image1.9d1fd10f.jpeg",
-    "static/media/pic1.jpg": "/static/media/pic1.74adb9fd.jpg",
-    "static/media/propic.jpg": "/static/media/propic.50ad3597.jpg"
+    "main.css": "/ReactSite/static/css/main.5203011d.chunk.css",
+    "main.js": "/ReactSite/static/js/main.55d1ba0a.chunk.js",
+    "main.js.map": "/ReactSite/static/js/main.55d1ba0a.chunk.js.map",
+    "runtime-main.js": "/ReactSite/static/js/runtime-main.0218c67e.js",
+    "runtime-main.js.map": "/ReactSite/static/js/runtime-main.0218c67e.js.map",
+    "static/css/2.69121389.chunk.css": "/ReactSite/static/css/2.69121389.chunk.css",
+    "static/js/2.8eabbe43.chunk.js": "/ReactSite/static/js/2.8eabbe43.chunk.js",
+    "static/js/2.8eabbe43.chunk.js.map": "/ReactSite/static/js/2.8eabbe43.chunk.js.map",
+    "index.html": "/ReactSite/index.html",
+    "precache-manifest.baf8e5b1a47d0ac0b207b05553dad35f.js": "/ReactSite/precache-manifest.baf8e5b1a47d0ac0b207b05553dad35f.js",
+    "service-worker.js": "/ReactSite/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/ReactSite/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5203011d.chunk.css.map": "/ReactSite/static/css/main.5203011d.chunk.css.map",
+    "static/js/2.8eabbe43.chunk.js.LICENSE.txt": "/ReactSite/static/js/2.8eabbe43.chunk.js.LICENSE.txt",
+    "static/media/image1.jpeg": "/ReactSite/static/media/image1.9d1fd10f.jpeg",
+    "static/media/pic1.jpg": "/ReactSite/static/media/pic1.74adb9fd.jpg",
+    "static/media/propic.jpg": "/ReactSite/static/media/propic.50ad3597.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.52bf020e.js",
+    "static/js/runtime-main.0218c67e.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.8eabbe43.chunk.js",
     "static/css/main.5203011d.chunk.css",
-    "static/js/main.c687bac3.chunk.js"
+    "static/js/main.55d1ba0a.chunk.js"
   ]
 }
