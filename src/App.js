@@ -1,25 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
+import Navbar from './components/navbar';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+// const navItems = [
+//   { name: 'about', label: 'About'},
+//   { name: 'projects', label: 'Projects' },
+//   { name: 'contact', label: 'Contact' },
+// ]
+
+  function App() {
+    return (
+      <div className="App">
+        <header className='app-header2'></header>
+        <body className='app-body'>
+          <Navbar></Navbar>
+        </body>
+      </div>
   );
 }
 

@@ -1,0 +1,39 @@
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+  }
+  
+#carousel {
+    padding: 240px;
+    background-color: seagreen;
+}
+
+
+h1 {
+  color: #73AD21;
+}
+
+h3 {
+  color: azure;
+}
+
+#ctextbox {
+  height: 200px;
+}
+
+#formlabel {
+  color: #73AD21;
+}
+
+#navbar {
+  margin-bottom: 20px;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
